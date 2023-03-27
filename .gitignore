@@ -1,0 +1,7 @@
+/java-home.ps1
+/gradle-home.ps1
+
+/out
+/.idea
+*.xml
+*.class
